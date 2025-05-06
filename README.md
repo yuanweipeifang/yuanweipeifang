@@ -15,7 +15,7 @@ Here are some ideas to get you started:
       <ul>  
         <li>🔭 AI-Agent & Websec</li>  
         <li>🌱 热衷各种安全和软件开发技术</li>  
-        <li>👯 NPU的小菜狗一枚</li>  
+        <li>👯 CTF-Web小菜狗</li>  
         <li>🤔 希望和各位师傅交流~</li>  
         <li>💬 Ask me about any</li>  
         <li>⚡ Fun fact: u know?……</li>  
