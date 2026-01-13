@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     </td>  
     <!-- 右侧内容 -->  
     <td style="width: 50%; vertical-align: top; text-align: center; padding: 10px;">  
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" />  
     </td>  
   </tr>  
 </table>
