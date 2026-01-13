@@ -13,9 +13,9 @@ Here are some ideas to get you started:
     <!-- 红色框内容 -->  
     <td style="width: 50%; vertical-align: top; padding: 10px;">  
       <ul>  
-        <li>🔭 AI-Agent & </li>  
-        <li>🌱 热衷各种安全和软件开发技术</li>  
-        <li>👯 CTF-Web小菜狗</li>  
+        <li>🔭 LLM-Agent & Vul_hunt</li>  
+        <li>🌱 热衷安全和软件技术</li>  
+        <li>👯 CTF_de_新手</li>  
         <li>🤔 希望和各位师傅交流~</li>  
         <li>💬 Ask me about any</li>  
         <li>⚡ Fun fact: u know?……</li>  
@@ -24,11 +24,8 @@ Here are some ideas to get you started:
     </td>  
     <!-- 右侧内容 -->  
     <td style="width: 50%; vertical-align: top; text-align: center; padding: 10px;">  
-        <li>🔭 </li>  
-        <li>✋ 热衷各种安全和软件开发技术</li>  
-        <li>👯 CTF-Web小菜狗</li>  
-        <li>🤔 希望和各位师傅交流~</li>  
-        <li>🏆 Ask me about any</li>  
+        <li>🌻 海量流量场景下的风险识别</li>  
+        <li>✋ 高级威胁分析</li>  
         <li>❗️ Wanna be better</li>  
       </ul>  
     </td>  
