@@ -13,7 +13,7 @@ Here are some ideas to get you started:
     <!-- 红色框内容 -->  
     <td style="width: 50%; vertical-align: top; padding: 10px;">  
       <ul>  
-        <li>🔭 AI-Agent & Websec</li>  
+        <li>🔭 AI-Agent & </li>  
         <li>🌱 热衷各种安全和软件开发技术</li>  
         <li>👯 CTF-Web小菜狗</li>  
         <li>🤔 希望和各位师傅交流~</li>  
@@ -24,6 +24,13 @@ Here are some ideas to get you started:
     </td>  
     <!-- 右侧内容 -->  
     <td style="width: 50%; vertical-align: top; text-align: center; padding: 10px;">  
+        <li>🔭 </li>  
+        <li>✋ 热衷各种安全和软件开发技术</li>  
+        <li>👯 CTF-Web小菜狗</li>  
+        <li>🤔 希望和各位师傅交流~</li>  
+        <li>🏆 Ask me about any</li>  
+        <li>❗️ Wanna be better</li>  
+      </ul>  
     </td>  
   </tr>  
 </table>
